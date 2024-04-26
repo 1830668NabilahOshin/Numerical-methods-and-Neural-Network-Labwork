@@ -1,4 +1,4 @@
-# Numerical-methods-and-Neural-Network-Labwork
+# Neural Network, ML and DL models:
 
 ## Text Preprocessing and Data Cleaning Techniques
 
@@ -76,6 +76,28 @@ I have Organized the notebooks into logical sections such as data preprocessing,
 
 Each model or hybrid model was tailored to address specific aspects of the data and task requirements
 
+## Numerical Methods Labwork :
+### Polynomial Interpolation and Least Squares Fitting
+#### Task Performed:
+- Implemented polynomial interpolation and least squares fitting using NumPy and Matplotlib.
+- Constructed Vandermonde matrices and solved for coefficients to fit polynomials to data points.
+- Visualized the fitted polynomials alongside original data points.
+
+### Simple Linear Regression
+#### Task Performed:
+- Conducted simple linear regression using Pandas, NumPy, and Matplotlib.
+- Calculated regression coefficients and plotted the regression line on the dataset.
+
+### K-Means Clustering
+#### Task Performed:
+- Applied K-Means clustering using NumPy, Pandas, and Matplotlib.
+- Initialized centroids, assigned data points to clusters, and updated centroids iteratively.
+- Visualized the clustering results with data points and centroids.
+
+### Gaussian Elimination
+#### Task Performed:
+- Implemented Gaussian elimination to solve a system of linear equations using NumPy.
+- Created an augmented matrix and performed row operations to obtain reduced row-echelon form.
 
 
 

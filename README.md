@@ -1,8 +1,8 @@
 # Numerical-methods-and-Neural-Network-Labwork
 
-# Text Preprocessing and Data Cleaning Techniques
+## Text Preprocessing and Data Cleaning Techniques
 
-## Libraries/Frameworks:
+### Libraries/Frameworks:
 - **NLTK**: Used for text preprocessing tasks such as tokenization, stop words removal, and punctuation handling.
 - **String operations in Python**: Employed for general text cleaning tasks like removing HTML tags and URLs.
 - **Custom Text Preprocessor Class**: Implemented a custom class to encapsulate text preprocessing functions.

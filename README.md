@@ -24,15 +24,15 @@
 - **Pandas**: Used for data manipulation, loading CSV files, and data preprocessing tasks.
 - **Scikit-Learn**: Employed for data splitting (train_test_split) and evaluation metrics (accuracy_score) during model evaluation.
 
-Informative comments are included throughout the notebooks to explain key functionalities, data transformations, and model components.
-I have Organized the notebooks into logical sections such as data preprocessing, model development, training loops, and evaluation.
-
 ## Modular and Reusable Components for Data Processing and Model Training
 
 ### Modular Components:
 - **Custom Text Dataset Class**: Created a modular Dataset class (TextDataset) for handling text data and labels, ensuring reusability and scalability.
 - **DataLoader Usage**: Utilized PyTorch's DataLoader for efficient batch-wise data loading, enhancing code modularity and readability.
 - **Custom Transformer Model**: Developed a modular Transformer model with configurable parameters, promoting reusability across different tasks or datasets.
+
+Informative comments are included throughout the notebooks to explain key functionalities, data transformations, and model components.
+I have Organized the notebooks into logical sections such as data preprocessing, model development, training loops, and evaluation.
 
 
 ## Models and Hybrid Models Used

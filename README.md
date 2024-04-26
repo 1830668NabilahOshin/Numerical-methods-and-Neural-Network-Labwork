@@ -24,6 +24,8 @@
 - **Pandas**: Used for data manipulation, loading CSV files, and data preprocessing tasks.
 - **Scikit-Learn**: Employed for data splitting (train_test_split) and evaluation metrics (accuracy_score) during model evaluation.
 
+Informative comments are included throughout the notebooks to explain key functionalities, data transformations, and model components.
+I have Organized the notebooks into logical sections such as data preprocessing, model development, training loops, and evaluation.
 
 ## Modular and Reusable Components for Data Processing and Model Training
 
@@ -55,6 +57,16 @@
 - Implemented a Logistic Regression classifier on Word2Vec vectors for sentiment analysis.
 - Evaluated the model's performance in terms of accuracy and compared it with other classifiers.
 
+### TF-IDF with Classifiers:
+
+####Task Performed:
+- Utilized TF-IDF vectorization for text data representation.
+- Trained and evaluated multiple classifiers on TF-IDF vectors for sentiment analysis:
+  - Support Vector Machine (SVM) Classifier: Classified text data into sentiment categories.
+  - Decision Tree Classifier: Analyzed feature importance and model interpretability.
+  - Random Forest Classifier: Assessed ensemble learning impact on predictive performance.
+  - Logistic Regression Classifier: Examined model's ability for sentiment classification.
+
 ### Transformer Model for Sequence Classification
 #### Task Performed:
 - Developed a custom Transformer model architecture for text sequence classification tasks.
@@ -62,17 +74,9 @@
 - Trained the Transformer model on a dataset with text and label pairs for binary classification tasks.
 - Evaluated the Transformer model's performance on both training and test datasets using binary cross-entropy loss and accuracy metrics.
 
-### TF-IDF Vectorization with SVM Classifier
-#### Task Performed:
-- Utilized TF-IDF vectorization for text data representation.
-- Trained a SVM classifier on TF-IDF vectors for sentiment analysis.
-- Compared the performance of TF-IDF based SVM classifier with Word2Vec based classifiers.
+Each model or hybrid model was tailored to address specific aspects of the data and task requirements
 
-### Evaluation Metrics and Comparisons
-#### Task Performed:
-- Calculated accuracy scores for each model to assess their performance on test data.
-- Conducted comparative analysis between different models and vectorization techniques (Word2Vec, TF-IDF).
-- Evaluated the strengths and limitations of each model in terms of accuracy, interpretability, and computational efficiency.
+
 
 
 
